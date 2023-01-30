@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 
 
@@ -40,6 +41,111 @@ h2{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 20px;
-    border-radius: 10px;
+    border-radius: 30px;
     color: white;
+}
+
+
+.second-section{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+
+
+.second-image{
+    width: 100%;
+    margin-left: 100px;
+}
+
+
+.right-half-width{
+    padding: 50px 130px;
+    margin-left: 250px;
+}
+
+
+.third-section{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+
+.center-align{
+    text-align: center;
+    padding: 0 500px;
+}
+
+.fourth-section{
+    display: flex;
+    
+}
+
+.recipe-image{
+    width: 100%;
+}
+
+
+#right-image{
+    margin: 0;
+    padding: 0;
+}
+
+.half-width-2{
+    margin: 0px 70px;
+    box-shadow: 5px 10px 30px gray;
+    border-radius:50px ;
+    
+}
+
+.right{
+    padding: 30px;
+}
+
+
+.left{
+    padding: 30px;
+}
+
+
+.fifth-section{
+    display: flex;   
+    justify-content: center; 
+    margin: 100px;    
+    
+}
+
+
+.youtube{
+   margin-right: 400px;
+
+}
+
+.instragram{
+    margin-right: 400px;
+}
+
+
+.footer{
+    background-color: black;
+    padding: 50px;
+}
+
+
+.eat{
+    color: orange;
+    margin-right: 15px;
+}
+
+
+
+.footer-h2{
+    color: white;
+    display: flex;
+    justify-content: center
+}
+
+.footer-paragraph{
+    color: white;
+    display: flex;
+    justify-content: center
 }
